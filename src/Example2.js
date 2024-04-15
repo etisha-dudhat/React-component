@@ -12,6 +12,9 @@ const Example2 = () => {
       <p>Example 2</p>
       <p>Example 2</p>
       <p>Example 2</p>
+      <p>Example 2</p>
+      <p>Example 2</p>
+      <p>Example 2</p>
       <Example3 />
     </div>
   )
